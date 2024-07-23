@@ -1,0 +1,107 @@
+.aboutmee {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+  
+  .pix img {
+    margin-top: 40px;
+    width: 100%;
+    height: auto;
+    background-attachment: fixed;
+  }
+  
+  .textt {
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color:white;
+
+
+  }
+  
+  .textt h6 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #808080;
+    font-family:serif;
+    margin-left: 30px;
+   
+  }
+  
+  .textt h1 {
+    padding-top: 20px;
+    margin: 0;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px;
+    text-align: justify;
+  }
+  .textt span {
+    color:saddlebrown;
+  }
+
+  .row {
+    margin-top: 90px;
+    margin-left: 1px;
+  }
+  
+  #gg {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  #cool {
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large;
+  }
+
+  #para {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+  }
+
+
+  .container-fluid {
+    margin-top: 15px;
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+  
+  .picx img {
+    width: 100%;
+    height: auto;
+    opacity: 0.1;
+  }
+  
+  .tex {
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    color: black;
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    max-width: 600px; 
+    box-sizing: border-box;
+  }
+  
+  .tex h1 {
+    margin: 0;
+    font-size: 2em; 
+    line-height: 1.4; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+  }
+  
+  .tex p {
+    margin-top: 10px;
+    font-size: 1em; 
+    line-height: 1.4; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #808080;
+  }
+  

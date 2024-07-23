@@ -1,0 +1,91 @@
+.imagex {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+  
+  .piz img {
+    margin-top: 50px;
+    width: 100%;
+    height: auto;
+  }
+  
+  .uper {
+    position: absolute;
+    top: 47%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
+  .uper h6 {
+    margin: 0;
+    font-family: sans-serif;
+    color: #808080;;
+
+  }
+  
+  .uper h1 {
+    margin: 0;
+    font-size: 2em; 
+    line-height: 1.4; 
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  #btnm {
+    border: none;
+    background-color: transparent;
+    color:crimson;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+
+
+  }
+
+  #parax {
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  #heads {
+    margin-top: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+.contact-form {
+  width: 100%;
+  padding: 20px;
+  border-radius: 5px;
+}
+.contact-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+.contact-form input, .contact-form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+.contact-form input[type="submit"] {
+  background-color: #d3a07b;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 3px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.contact-form input[type="submit"]:hover {
+  background-color: #c58e6d;
+}
+.required {
+  color: red;
+}
+
+.row img {
+    margin: 5px;
+}
+  

@@ -1,0 +1,25 @@
+
+body{
+  background-color:whitesmoke;
+}
+#nav{
+    font-family:monospace;
+    font-size: x-large;
+    white-space: nowrap;
+}
+ul li {
+  margin-right: 30px;
+}
+
+.nav-link {
+  color: #333; 
+  transition: color 0.3s ease; 
+}
+
+.nav-link:hover {
+  color: #f00; 
+}
+
+
+
+

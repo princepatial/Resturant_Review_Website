@@ -1,0 +1,61 @@
+.foodd h1 {
+    color:indianred;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 100px;
+    margin-left: 155px;
+}
+
+
+#min {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#cmt {
+    color: crimson;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#btn {
+ width:150px;
+ margin-top: 10px;
+ color:crimson;
+ border: none;
+ background-color: transparent;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.comment {
+    margin-left: 130px;
+    margin-top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#name {
+    height: 40px;
+    width: 200px;
+}
+
+#email {
+    height: 40px;
+    width: 200px;
+    margin-top: 1px;
+}
+#website {
+    height: 40px;
+    width: 200px;
+}
+#freeform {
+    margin-top: 20px;
+    height: 300px;
+    width: 1300px;
+}
+.form {
+    display: flex;
+    gap: 300px;
+    margin-top: 20px;
+}
+#bttnn {
+    width:150px;
+ color:white;
+ margin-top: 15px;
+ background-color: crimson;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
